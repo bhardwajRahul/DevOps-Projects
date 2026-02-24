@@ -232,3 +232,9 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 ![Follow Me](https://imgur.com/2j7GSPs.png)
 
 ![Stay Connected](https://img.shields.io/badge/📢%20Stay%20Connected-Join%20our%20DevOps%20Community-orange?style=for-the-badge&logo=telegram&logoColor=white)
+
+---
+
+## 📜 **Copyright & License**
+
+![Copyright](https://img.shields.io/badge/©%202026%20H%20A%20R%20S%20H%20H%20A%20A-All%20Rights%20Reserved-red?style=for-the-badge&logo=copyright&logoColor=white) ![License](https://img.shields.io/badge/⚠️%20Unauthorized%20Reproduction-Prohibited-darkred?style=for-the-badge&logo=shield&logoColor=white)
